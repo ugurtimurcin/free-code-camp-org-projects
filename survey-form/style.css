@@ -1,0 +1,41 @@
+
+*{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    min-height: 100%;
+}
+div{
+    line-height: 10px;
+}
+#background{
+    background: linear-gradient(rgba(141, 153, 174, 0.8), rgba(141, 153, 174, 0.5)), url("/bg.jpg") no-repeat fixed;
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#title{
+    font-size: 45px;
+}
+
+
+#main{
+    margin: 20px;
+}
+
+#survey-form{
+    width: 50%;
+    margin: auto;
+    padding: 25px;
+    background: rgba(34, 80, 160, 0.712);
+}
+
+option{
+    color: black;
+}
+button{
+    width: 100%;
+}
