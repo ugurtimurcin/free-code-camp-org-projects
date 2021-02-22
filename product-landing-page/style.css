@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#header{
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+#nav-bar{
+    padding: 10px;
+}
+
+#header-img{
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+    
+}
+.nav-item{
+    padding-right: 5rem;
+}
+#nav-bar ul li a{
+    text-decoration: none!important;
+    color: black!important;
+    font-size: 20px;
+}
+  #main{
+      margin-top: 50px;
+  }
+
+  #email{
+      width: 20rem;
+  }
+  #submit{
+      margin-top: 10px;
+      font-weight: 900;
+  }
+
+  i{
+      color: orange;
+      font-size: 3rem;
+  }
+  #features{
+      width: 65%;
+      margin: auto;
+      line-height: 15px;
+  }
+
+  .grid{
+      margin: 4rem 0;
+  }
+
+  .box{
+      border: 1px solid black;
+  }
+
+  .box h6{
+      background-color: rgba(128, 128, 128, 0.295);
+      padding: 15px;
+  }
+
+  .price{
+      font-size: 1.6rem;
+      font-weight: 600;
+  }
+
+  ol li{
+      list-style-type: none;
+      font-weight: 400;
+  }
+
+  footer{
+      text-align: right;
+      width: 71%;
+      margin: auto;
+      background-color: rgba(128, 128, 128, 0.308);
+      padding: 10px;
+  }
+
+  footer ol li{
+      display: inline-block;
+      margin-right: 10px;
+  }
+
+  footer ol li a{      
+    color: black;
+    text-decoration: none;
+  }
+
+  footer ol li a:hover{
+      text-decoration: none;
+      color: black;
+  }
+
+  .clearfix{
+      clear: both;
+  }
