@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#header{
+    text-align: center;
+
+}
+#navbar{
+    border-right: 3px solid gray;
+    top: 0;
+    bottom:0;
+    position:fixed;
+    overflow-y:scroll;
+    overflow-x:hidden;
+}
+.list-group a{
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+    padding-left: 30px;
+    
+}
+
+header{
+    font-size: 1.8rem;
+    font-weight: 500;
+    padding-left: 0;
+}
+
+article p{
+    margin-left: 1rem;
+}
+
+article ul li{
+    margin-left: 4rem;
+}
+code{
+    display: block;
+    background-color: #dfd5d5c2;
+    padding: 15px;
+    margin: 10px;
+    color: black;
+}
