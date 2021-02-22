@@ -2,4 +2,5 @@
 
 CodePen | Tribute Page - https://codepen.io/oxir/pen/WNoEqjr <br>
 CodePen | Survey Form - https://codepen.io/oxir/pen/vYyeLby <br>
-CodePen | Product Landing Page - https://codepen.io/oxir/pen/rNWGJoe
+CodePen | Product Landing Page - https://codepen.io/oxir/pen/rNWGJoe<br>
+CodePen | Technical Documentation Page - https://codepen.io/oxir/pen/xxRXQjW
