@@ -1,4 +1,4 @@
-# <a href="https://freecodecamp.org/" target="_blank">freeCodeCamp<a> Responsive Web Design Projects
+# <a href="https://freecodecamp.org/" target="_blank">freeCodeCamp<a> Projects
 
 CodePen | Tribute Page - https://codepen.io/oxir/pen/WNoEqjr <br>
 CodePen | Survey Form - https://codepen.io/oxir/pen/vYyeLby <br>
