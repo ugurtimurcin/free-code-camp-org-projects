@@ -57,15 +57,17 @@ function play(userChoice){
 function main(){
     rock_div.addEventListener('click', function(){
         play("r");
-        result_text.style.visibility = "visible"
+        result_text.style.visibility = "visible";
     })
     
     paper_div.addEventListener('click', function(){
         play("p");
+        result_text.style.visibility = "visible";
     })
     
     scissors_div.addEventListener('click', function(){
         play("s");
+        result_text.style.visibility = "visible";
     })
 }
 
